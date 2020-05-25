@@ -1,4 +1,4 @@
-# Alura cursos
+## Alura cursos
 Curso Python 3: Avançando na Orientação a objetos
 
     # Entenda o que é Duck Typing e para que serve
